@@ -1,4 +1,4 @@
-# Quiz
+# Quiz App with HTML, CSS, and JavaScript
 
 _Highlights_
 ---
